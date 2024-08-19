@@ -55,7 +55,7 @@ table span {
     cursor: pointer;
 }
 .listInfo {
-    position: static;
+    position: absolute;
     top: 100px;
 }
 .listInfo .panel {
