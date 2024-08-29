@@ -54,10 +54,7 @@ table span.fa small {
 table span {
     cursor: pointer;
 }
-.listInfo {
-    position: static;
-    top: 100px;
-}
+
 .listInfo .panel {
     box-shadow: 1px 1px 5px #aaa;
 }
